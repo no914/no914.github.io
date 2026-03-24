@@ -1,2 +1,2 @@
-# ame220-asu.github.io
+# no914.github.io
 website for AME 220
